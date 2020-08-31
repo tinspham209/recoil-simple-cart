@@ -32,6 +32,14 @@
 ├── README.md
 ├── public
 └── src
+    ├── features
+        └── cart
+            ├── components
+                ├── CartInfo
+                └── ProductList
+            ├── cartState.js
+            ├── productState.js
+            └── index.jsx
     ├── App.js
     ├── App.css
     ├── index.css
